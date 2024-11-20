@@ -52,8 +52,8 @@ int main() {
 
     cout << "1. Sum of Array numbers" << endl;
     cout << "2. Product of Array numbers" << endl;
-    cout << "3. Sum of Array numbers" << endl;
-    cout << "4. Sum of Array numbers" << endl;
+    cout << "3. The Maximum in array" << endl;
+    cout << "4. The Minimum in array" << endl;
 
     cout << "Enter choice from above processes: ";
     cin >> Choice;
