@@ -1,2 +1,8 @@
+# VS Code settings
 .vscode/
+
+# Executables
 *.exe
+
+# Java class files
+*.class
